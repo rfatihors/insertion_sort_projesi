@@ -33,4 +33,4 @@ Dizimiz küçükten büyüğe sıralandıktan sonra [2,6,16,18,22,27] şeklini a
 
 [2,3,4,5,7,9,8,15,6]
 
-https://app.patika.dev/fors
+ www.patika.dev
