@@ -1,4 +1,4 @@
-# insertion_sort_projesi
+# InsertionSortProjesi
 Patika.dev - Insertion Sort Projesi
 Insertion Sort Aşamaları
 [22,27,16,2,18,6] - (n)
